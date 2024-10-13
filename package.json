@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@module-federation/node": "^2.5.20"
+  }
+}
